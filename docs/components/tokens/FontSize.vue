@@ -52,7 +52,7 @@ export default {
   font-family: $font-family-heading;
   font-weight: $font-weight-bold;
   line-height: $line-height-heading;
-  color: $color-rich-black;
+  color: $color-university-black;
   margin-bottom: $space-small;
   font-style: normal;
   span {
